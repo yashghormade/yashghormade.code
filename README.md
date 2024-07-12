@@ -17,3 +17,15 @@ youtub link
 https://youtube.com/shorts/lBtKEIyNwRA?feature=share
 
 https://www.linkedin.com/posts/yash-ghormade-35b238226_appdevelopment-java-androidstudio-activity-7209932886924251137-IV-0?utm_source=share&utm_medium=member_desktop
+
+Just finished creating my own notes app using Java programming and Android Studio! 📱👨‍💻 "
+2) "Finally got my hands on Android app development and created a cool notes app using Java and Android Studio! 📲👨‍💻 "
+3) "Spent hours coding in Java and using Android Studio to build my own notes app! 📱👨‍💻 "
+4) "Who knew creating a notes app could be so fun? Loving the process of Android app development with Java and Android Studio! 📲👨‍💻 "
+5) "Proud to say I've dived into Android app development and built my very own notes app using Java and Android Studio! 
+
+
+
+https://github.com/user-attachments/assets/45809f93-c31a-497a-b0c7-1fce211901a9
+
+
