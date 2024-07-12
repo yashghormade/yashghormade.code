@@ -13,4 +13,7 @@ It's and android app where a user can register/ login with their email id and pa
 ![Screenshot 2024-07-10 194554](https://github.com/yashghormade/yashghormade.code/assets/161242093/ae799b2c-270b-4fb2-a21e-9c00ab3d714e)
 ![Screenshot 2024-07-10 194621](https://github.com/yashghormade/yashghormade.code/assets/161242093/74800803-6ba2-445b-964c-2c5abe91eed8)
 
+youtub link 
+https://youtube.com/shorts/lBtKEIyNwRA?feature=share
 
+https://www.linkedin.com/posts/yash-ghormade-35b238226_appdevelopment-java-androidstudio-activity-7209932886924251137-IV-0?utm_source=share&utm_medium=member_desktop
